@@ -1,0 +1,8 @@
+{
+  "name": "سامانه تحلیل پیشرفته عملکرد مرکز تماس",
+  "description": "داشبورد جامع هوش تجاری و ارزیابی شاخص‌های کلیدی عملکرد (KPI) کارشناسان فروش تلفنی، گزارش‌های ساعتی، نمودارهای تحلیلی و محاسبه دقیق پاداش",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
